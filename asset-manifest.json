@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/01-starting-setup-pages/static/css/main.9e9e92de.css",
+    "main.js": "/01-starting-setup-pages/static/js/main.556e2c5d.js",
+    "index.html": "/01-starting-setup-pages/index.html",
+    "main.9e9e92de.css.map": "/01-starting-setup-pages/static/css/main.9e9e92de.css.map",
+    "main.556e2c5d.js.map": "/01-starting-setup-pages/static/js/main.556e2c5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e9e92de.css",
+    "static/js/main.556e2c5d.js"
+  ]
+}
